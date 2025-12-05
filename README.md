@@ -119,18 +119,15 @@ ML_CustomerSegmentation/
 ├── MLPPT_CustomerSegmentation.pdf
 └── MLProjectReport_CustomerSegmentation.pdf
 
-🎯 Results
+🎯_results:
+  optimal_clusters: "6️⃣"
+  insights:
+    - "📊 PCA scatter plot shows clear separation of clusters"
+    - "🛒 Identified meaningful customer groups for targeted marketing"
+    - "⚡ Fully functional Streamlit prediction application"
 
-Optimal number of clusters: 6
+👩‍💻_author:
+  name: "Durga Sravanthi Peddoju"
+  qualification: "B.Tech CSE"
+  university: "SRM University AP"
 
-PCA scatter plot shows clear separation of clusters
-
-Identified meaningful customer groups for targeted marketing
-
-Fully functional Streamlit prediction application
-
-👩‍💻 Author
-
-Durga Sravanthi Peddoju
-B.Tech CSE
-SRM University AP
