@@ -118,8 +118,8 @@ ML_CustomerSegmentation/
 ├── README.md
 ├── MLPPT_CustomerSegmentation.pdf
 └── MLProjectReport_CustomerSegmentation.pdf
----
-##🎯 Results
+
+🎯 Results
 ---
 Optimal number of clusters: 6
 
@@ -128,11 +128,11 @@ PCA scatter plot shows clear separation of clusters
 Identified meaningful customer groups for targeted marketing
 
 Fully functional Streamlit prediction application
----
 
-##👩‍💻 Author
---
+
+👩‍💻 Author
+---
 Durga Sravanthi Peddoju
 B.Tech CSE
 SRM University AP
----
+
