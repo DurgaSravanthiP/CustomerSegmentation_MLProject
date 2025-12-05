@@ -111,13 +111,21 @@ The app displays:
 ML_CustomerSegmentation/
 │
 ├── Analysis_Model.ipynb
+
 ├── segmentation.py
+
 ├── customer_segmentation.csv
+
 ├── kmeans_customer_segmentation_model.pkl
+
 ├── scaler_customer_segmentation.pkl
+
 ├── README.md
+
 ├── MLPPT_CustomerSegmentation.pdf
+
 └── MLProjectReport_CustomerSegmentation.pdf
+
 
 🎯 Results
 ---
@@ -133,6 +141,8 @@ Fully functional Streamlit prediction application
 👩‍💻 Author
 ---
 Durga Sravanthi Peddoju
+
 B.Tech CSE
+
 SRM University AP
 
