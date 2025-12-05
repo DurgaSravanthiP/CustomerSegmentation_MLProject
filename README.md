@@ -109,7 +109,8 @@ The app displays:
 
 📁 Project Structure
 ML_CustomerSegmentation/
-│
+
+
 ├── Analysis_Model.ipynb
 
 ├── segmentation.py
