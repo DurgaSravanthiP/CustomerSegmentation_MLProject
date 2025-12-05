@@ -81,7 +81,7 @@ Saved using joblib:
 ## 🌐 Running the Streamlit App
 
 ### ▶ Install dependencies
-```bash
+
 pip install -r requirements.txt
 ▶ Run the application
 streamlit run segmentation.py
@@ -118,16 +118,21 @@ ML_CustomerSegmentation/
 ├── README.md
 ├── MLPPT_CustomerSegmentation.pdf
 └── MLProjectReport_CustomerSegmentation.pdf
+---
+##🎯 Results
+---
+Optimal number of clusters: 6
 
-🎯_results:
-  optimal_clusters: "6️⃣"
-  insights:
-    - "📊 PCA scatter plot shows clear separation of clusters"
-    - "🛒 Identified meaningful customer groups for targeted marketing"
-    - "⚡ Fully functional Streamlit prediction application"
+PCA scatter plot shows clear separation of clusters
 
-👩‍💻_author:
-  name: "Durga Sravanthi Peddoju"
-  qualification: "B.Tech CSE"
-  university: "SRM University AP"
+Identified meaningful customer groups for targeted marketing
 
+Fully functional Streamlit prediction application
+---
+
+##👩‍💻 Author
+--
+Durga Sravanthi Peddoju
+B.Tech CSE
+SRM University AP
+---
