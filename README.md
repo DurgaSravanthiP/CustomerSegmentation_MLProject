@@ -5,6 +5,13 @@ It also includes a **Streamlit web application** that predicts a customer’s se
 
 ---
 
+## 🚀 Live Deployment
+
+🔗 **Live Application Link:**  
+👉 https://customer-segmentation-mlproject.streamlit.app/
+
+---
+
 ## 🚀 Features
 
 - Segments customers into **6 meaningful groups**
@@ -30,7 +37,7 @@ It also includes a **Streamlit web application** that predicts a customer’s se
 ## 📂 Files Included
 
 - **Analysis_Model.ipynb** → Data analysis, feature engineering, clustering, PCA visualization  
-- **segmentation.py** → Streamlit app to predict customer segment  
+- **app.py** → Streamlit app to predict customer segment  
 - **customer_segmentation.csv** → Dataset used  
 - **kmeans_customer_segmentation_model.pkl** → Trained KMeans model  
 - **scaler_customer_segmentation.pkl** → Saved StandardScaler  
@@ -84,7 +91,7 @@ Saved using joblib:
 
 pip install -r requirements.txt
 ▶ Run the application
-streamlit run segmentation.py
+streamlit run app.py
 
 ▶ App Functionality
 
